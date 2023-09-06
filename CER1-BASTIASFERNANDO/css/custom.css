@@ -1,0 +1,59 @@
+#main, .navbar, #contacto{
+    margin: 0px;
+    padding: 0px;
+}
+
+#texto{
+    color: #6d757d;
+    padding: 15px;
+}
+
+#galeria, #nosotros{
+    padding: 10px;
+}
+
+#contacto{
+    color: #ffffff;
+}
+
+#boton:hover{
+    background-color: #f6c270;
+    color: #6d757d;
+}
+
+#boton2:hover{
+    color: #f6c270;
+}
+
+#boton2{
+    color: white;
+}
+
+#fila1{
+    height: auto;
+    width: 100%;
+    padding: 20px 100px;
+}
+
+#miGithub:link{
+    text-decoration: none;
+    color: white;
+}
+
+#fila2{
+    height: 20px;
+    width: 100%;
+}
+
+#fila3{
+    height: 100px;
+    width: 100%;
+}
+
+#fila1, #fila3{
+    background-color: #f25252;
+}
+
+#fila2{
+    background-color: #fae2e2;
+}
